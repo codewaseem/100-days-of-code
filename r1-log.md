@@ -1,10 +1,24 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Waseem Ahmed]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [January 8, 2020].
+
+I will dedicate 3 hours everyday to this challenge which involves 40 mins of learning a new language/framework/skill, 40 mins of Software Engineering (Algorithms to Architecture), 30 mins on self-help, and 70 mins of working on a side-project or contributing to the open-source project [this is the actual part of the challenge since courses/tutorials/reading won't count for the challenge.]
+
+## Round 1 Details
+
+In this round I'm planning to do the following
+
+- Langauge/Framework/Skill: Master JavaScript, GraphQL, and Gatsby Framework
+- Software Engineering: Data Structures, Algorithms and Object-Oriented Software Engineering
+- Self-Help: Read Soft-Skills, The Sprint, The 4-Hour Work Week.
+- Project [Actual Challenge]: Build all the mock-ups from frontendmentor.io using Gatsby + Side Project!
+
+## Resources
+
+- JavaScript: You don't know JS Books and frontend masters courses.
+- Data Structures and Algorithms: Frontend masters courses and Cracking the coding interview book
+- Object-Oriented Software Engineering: Book OSSE, Ivar Jacobson
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+### R1D1
