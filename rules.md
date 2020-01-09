@@ -6,7 +6,7 @@
 
 #### Start Date
 
-January 8, 2020
+January 09, 2020
 
 ## Additional Rules
 
