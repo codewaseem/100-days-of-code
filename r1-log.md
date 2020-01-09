@@ -23,4 +23,8 @@ In this round I'm planning to do the following
 
 ### R1D1
 
-Started working on HTML5 Deep Dive Gitbook side-project! Used the gatsby starter and modified a bit.
+**Today's Progress**: Started working on HTML5 Deep Dive Gitbook side-project! Used the gatsby starter and modified a bit.
+
+**Thoughts:** Wasted a lot of time on this.
+
+**Link to work:** [HTML5 Deep Dive](https://github.com/codewaseem/HTML5DeepDiveBlog)
