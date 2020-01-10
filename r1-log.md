@@ -28,3 +28,10 @@ In this round I'm planning to do the following
 **Thoughts:** Wasted a lot of time on this.
 
 **Link to work:** [HTML5 Deep Dive](https://github.com/codewaseem/HTML5DeepDiveBlog)
+
+### R1D2
+
+**Today's Progress**: Started working on the Bookmark landing page using Gatsby.
+**Thoughts:** Wasted a lot of time on this.
+
+**Link to work:** [Bookmark Landing Page](https://github.com/codewaseem/bookmark-landing-page)
