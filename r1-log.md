@@ -35,3 +35,10 @@ In this round I'm planning to do the following
 **Thoughts:** Wasted a lot of time on this.
 
 **Link to work:** [Bookmark Landing Page](https://github.com/codewaseem/bookmark-landing-page)
+
+### R1D2
+
+**Today's Progress**: Added layout with common components to be shared across pages.
+**Thoughts:** Wasted a lot of time on this.
+
+**Link to work:** [Bookmark Landing Page](https://github.com/codewaseem/bookmark-landing-page)
