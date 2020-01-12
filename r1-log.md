@@ -36,9 +36,16 @@ In this round I'm planning to do the following
 
 **Link to work:** [Bookmark Landing Page](https://github.com/codewaseem/bookmark-landing-page)
 
-### R1D2
+### R1D3
 
 **Today's Progress**: Added layout with common components to be shared across pages.
 **Thoughts:** Wasted a lot of time on this.
 
 **Link to work:** [Bookmark Landing Page](https://github.com/codewaseem/bookmark-landing-page)
+
+### R1D4
+
+**Today's Progress**: Started to work on coding blog
+**Thoughts:**
+
+**Link to work:** [Coding Blog](https://github.com/codewaseem/bookmark-landing-page)
